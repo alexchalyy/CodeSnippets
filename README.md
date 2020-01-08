@@ -19,7 +19,7 @@ Tier 1
 
 Create a CRUD application in which users can save code snippets.
 A code snippet is simply a code sample of arbitrary length. The model should include a title; optional description; the code snippet itself; and a field recording the language of the snippet.
-Be sure that your detail view displays snippets correctly. In other words, ensure that it displays the code snippet itself in HTML < pre >' tags.
+Be sure that your detail view displays snippets correctly. In other words, ensure that it displays the code snippet itself in HTML < pre > tags.
 
 Tier 2
 
